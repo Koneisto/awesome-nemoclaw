@@ -1,3 +1,9 @@
+## Maintenance status
+
+This project is no longer maintained.
+
+The repository is preserved for reference. No further updates, bug fixes, or security patches are planned.
+
 <a href="https://github.com/NVIDIA/NemoClaw">
      <img width="1500" height="801" alt="nemoclaw" src="https://github.com/user-attachments/assets/38f0625e-b1a1-4c4e-88d9-663ea940a305" />
 </a>
